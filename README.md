@@ -1,5 +1,5 @@
 # Coffee Sales Dashboard
-![Coffee Background Banner (4)](smeeling-coffee-beans_900x_5148e663-e441-4642-af81-ade43296e6b5_900x.jpg)
+![Coffee Background Banner (4)]([smeeling-coffee-beans_900x_5148e663-e441-4642-af81-ade43296e6b5_900x.jpg](https://raw.githubusercontent.com/purvalakhewar/COFFE_SALES_DASHBOARD-/refs/heads/main/Coffee_beans.avif))
 
 ## Overview : 
 This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.
